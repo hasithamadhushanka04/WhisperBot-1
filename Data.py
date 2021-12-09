@@ -29,7 +29,6 @@ By @CloudUpdateslk
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("updates channel", url="https://t.me/CloudUpdateslk")],
     ]
@@ -41,7 +40,4 @@ Just type the message in below format in any chat.
 `@WhisperStarkBot your_message friend_username/id`
     """
 
-    # About Message
-    ABOUT = """
-hi
-    """
+    
