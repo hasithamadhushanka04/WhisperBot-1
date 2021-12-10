@@ -21,7 +21,7 @@ main = [
         input_message_content=InputTextMessageContent("Write Target User's @username or id at the end of your message."),
         url="https://t.me/CloudUpdateslk",
         description="Write Target User's @username or id at the end of your message.",
-        thumb_url="https://telegra.ph/file/25487c2c99656d8a1bb90.png",
+        thumb_url="https://telegra.ph/file/3e00b5341543cdb9f1756.png",
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("Learn More", url="https://t.me/WhisperlkBot?start=start")],
@@ -83,7 +83,7 @@ async def previous_target(sender):
                       f"A whisper message to {mention}" + " " + text2),
                   url="https://t.me/CloudUpdateslk",
                   description=text2,
-                  thumb_url="https://telegra.ph/file/25487c2c99656d8a1bb90.png",
+                  thumb_url="https://telegra.ph/file/3e00b5341543cdb9f1756.png",
                   reply_markup=InlineKeyboardMarkup(
                       [
                           [
@@ -154,7 +154,7 @@ async def answer(bot: Client, query):
                         input_message_content=InputTextMessageContent(f"A whisper message to {target_user.mention}" + " " + text2),
                         url="https://t.me/CloudUpdateslk",
                         description=text2,
-                        thumb_url="https://telegra.ph/file/25487c2c99656d8a1bb90.png",
+                        thumb_url="https://telegra.ph/file/3e00b5341543cdb9f1756.png",
                         reply_markup=InlineKeyboardMarkup(
                             [
                                 [
