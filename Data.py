@@ -30,7 +30,7 @@ By @CloudUpdateslk
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
         ],
-        [InlineKeyboardButton("updates channel", url="https://t.me/CloudUpdateslk")],
+        [InlineKeyboardButton("Join Updates Channel", url="https://t.me/CloudUpdateslk")],
     ]
 
     # Help Message
