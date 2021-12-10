@@ -10,6 +10,7 @@ Welcome to {}
 A TeleGram Bot to send messages to a person secretly!
 
 You can use me to send whispers to your friend in groups and channels (even if I'm not there).
+
 Only that friend and you will be able to read the message even though others are in same group. 
 
 To see how to use me press 'How to Use' below.
